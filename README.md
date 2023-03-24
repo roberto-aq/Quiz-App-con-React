@@ -1,4 +1,4 @@
-# Quiz App con React
+# Quiz App con React y Tailwind
 
 Esta es una aplicación de Quizz App hecha con React que utiliza un archivo data.js para almacenar las preguntas. La aplicación tiene varias categorías y cada una de ellas inicia una quiz aleatoria con preguntas de opción múltiple.
 
